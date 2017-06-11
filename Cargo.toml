@@ -1,5 +1,5 @@
 [package]
-name = "cargotest01-00"
+name = "cargotest01"
 version = "0.1.0"
 authors = ["Takuya SHIOZAKI <tshiozak@bsdclub.org>"]
 
